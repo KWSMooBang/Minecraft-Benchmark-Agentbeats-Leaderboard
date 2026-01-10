@@ -80,6 +80,7 @@ services:
     platform: linux/amd64
     container_name: agentbeats-client
     volumes:
+      - ./src:/app/src
       - ./a2a-scenario.toml:/app/scenario.toml
       - ./output:/app/output
     command: ["scenario.toml", "output/results.json"]
