@@ -1,0 +1,11 @@
+[green_agent]
+agentbeats_id = "019bad79-fd8b-7cc0-9b0f-36b91fa634d7"
+env = { OPENAI_API_KEY = "${OPENAI_API_KEY}", LOG_LEVEL = "INFO" }
+
+[[participants]]
+image = "mcu-purple-agent"
+name = "agent"
+env = {}
+
+[config]
+task_category = "overall"
