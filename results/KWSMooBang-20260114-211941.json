@@ -1,5 +1,7 @@
 {
-  "participants": {},
+  "participants": {
+    "agent": "baseline-purple-agent"
+  },
   "results": [
     {
       "task_category": "motion",
