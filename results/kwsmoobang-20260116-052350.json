@@ -1,0 +1,110 @@
+{
+  "participants": {
+    "agent": "019bc2e2-b44b-71f3-9fa5-e89901920e31"
+  },
+  "results": [
+    {
+      "task_category": "mining_and_collecting",
+      "num_tasks": 9,
+      "total_max_score": 90.0,
+      "total_score": 11.0,
+      "avg_action_control": 2.89,
+      "avg_error_recognition_and_correction": 1.44,
+      "avg_creative_attempts": 1.11,
+      "avg_task_completion_efficiency": 1.89,
+      "avg_material_selection_and_usage": 3.78,
+      "task_metrics": {
+        "mine_horizontally": {
+          "max_score": 10.0,
+          "sim_score": 0.0,
+          "score": 0.0,
+          "action_control": 1.0,
+          "error_recognition_and_correction": 0.0,
+          "creative_attempts": 0.0,
+          "task_completion_efficiency": 0.0,
+          "material_selection_and_usage": 2.0
+        },
+        "collect_wood": {
+          "max_score": 10.0,
+          "sim_score": 0.0,
+          "score": 5.0,
+          "action_control": 9.0,
+          "error_recognition_and_correction": 8.0,
+          "creative_attempts": 8.0,
+          "task_completion_efficiency": 9.0,
+          "material_selection_and_usage": 10.0
+        },
+        "mine_obsidian": {
+          "max_score": 10.0,
+          "sim_score": 0.0,
+          "score": 0.0,
+          "action_control": 2.0,
+          "error_recognition_and_correction": 0.0,
+          "creative_attempts": 0.0,
+          "task_completion_efficiency": 0.0,
+          "material_selection_and_usage": 2.0
+        },
+        "cut_stone": {
+          "max_score": 10.0,
+          "sim_score": 0.0,
+          "score": 0.0,
+          "action_control": 2.0,
+          "error_recognition_and_correction": 0.0,
+          "creative_attempts": 0.0,
+          "task_completion_efficiency": 0.0,
+          "material_selection_and_usage": 3.0
+        },
+        "collect_grass": {
+          "max_score": 10.0,
+          "sim_score": 0.0,
+          "score": 4.0,
+          "action_control": 5.0,
+          "error_recognition_and_correction": 4.0,
+          "creative_attempts": 2.0,
+          "task_completion_efficiency": 6.0,
+          "material_selection_and_usage": 9.0
+        },
+        "mine_iron_ore": {
+          "max_score": 10.0,
+          "sim_score": 0.0,
+          "score": 2.0,
+          "action_control": 2.0,
+          "error_recognition_and_correction": 1.0,
+          "creative_attempts": 0.0,
+          "task_completion_efficiency": 2.0,
+          "material_selection_and_usage": 3.0
+        },
+        "collect_dirt": {
+          "max_score": 10.0,
+          "sim_score": 0.0,
+          "score": 0.0,
+          "action_control": 2.0,
+          "error_recognition_and_correction": 0.0,
+          "creative_attempts": 0.0,
+          "task_completion_efficiency": 0.0,
+          "material_selection_and_usage": 1.0
+        },
+        "mine_diamond_ore": {
+          "max_score": 10.0,
+          "sim_score": 0.0,
+          "score": 0.0,
+          "action_control": 1.0,
+          "error_recognition_and_correction": 0.0,
+          "creative_attempts": 0.0,
+          "task_completion_efficiency": 0.0,
+          "material_selection_and_usage": 2.0
+        },
+        "collect_wool": {
+          "max_score": 10.0,
+          "sim_score": 0.0,
+          "score": 0.0,
+          "action_control": 2.0,
+          "error_recognition_and_correction": 0.0,
+          "creative_attempts": 0.0,
+          "task_completion_efficiency": 0.0,
+          "material_selection_and_usage": 2.0
+        }
+      }
+    }
+  ]
+}

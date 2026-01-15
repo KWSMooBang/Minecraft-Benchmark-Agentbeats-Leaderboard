@@ -1,0 +1,12 @@
+[green_agent]
+agentbeats_id = "019bad79-fd8b-7cc0-9b0f-36b91fa634d7"
+env = { OPENAI_API_KEY = "${OPENAI_API_KEY}", LOG_LEVEL = "INFO" }
+
+[[participants]]
+agentbeats_id = "019bc2e2-b44b-71f3-9fa5-e89901920e31"
+name = "agent"
+env = {}
+
+[config]
+task_category = "mining_and_collecting"
+max_steps = 600

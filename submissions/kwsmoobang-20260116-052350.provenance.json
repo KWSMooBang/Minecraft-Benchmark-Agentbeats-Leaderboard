@@ -1,0 +1,8 @@
+{
+  "image_digests": {
+    "green-agent": "ghcr.io/kwsmoobang/mcu-agentbeats@sha256:ac5816cbc43d33b44c4cd27e72a20c55078fb4d209cfd36e6667fde4c09f95a2",
+    "agent": "ghcr.io/guthsplan/mcu-purple-baseline@sha256:c5a44a6243b03291a3be61b95263825f3e0b084780668b5a3e7154f9011b8b3a",
+    "agentbeats-client": "ghcr.io/agentbeats/agentbeats-client@sha256:13dfe3ef4e583a80e7ce2fe3becd0ce3b879841368a7f4fa40b6ebbabeeb014e"
+  },
+  "timestamp": "2026-01-15T20:10:21Z"
+}
