@@ -3,9 +3,9 @@ agentbeats_id = "019bad79-fd8b-7cc0-9b0f-36b91fa634d7"
 env = { OPENAI_API_KEY = "${OPENAI_API_KEY}", LOG_LEVEL = "INFO" }
 
 [[participants]]
-agentbeats_id = "your-purple-agent-id"
+image = "mcu-purple-agent"
 name = "agent"
 env = {}
 
 [config]
-task_category = ["overall"]
+task_category = "crafting"
