@@ -1,0 +1,120 @@
+{
+  "participants": {
+    "agent": "019bc2e2-b44b-71f3-9fa5-e89901920e31"
+  },
+  "results": [
+    {
+      "task_category": "crafting",
+      "num_tasks": 10,
+      "total_max_score": 100.0,
+      "total_score": 21.5,
+      "avg_action_control": 3.4,
+      "avg_error_recognition_and_correction": 0.9,
+      "avg_creative_attempts": 0.2,
+      "avg_task_completion_efficiency": 1.9,
+      "avg_material_selection_and_usage": 4.3,
+      "task_metrics": {
+        "craft_oak_planks": {
+          "max_score": 10.0,
+          "sim_score": 0.0,
+          "score": 4.0,
+          "action_control": 9.0,
+          "error_recognition_and_correction": 8.0,
+          "creative_attempts": 2.0,
+          "task_completion_efficiency": 8.0,
+          "material_selection_and_usage": 9.0
+        },
+        "craft_the_crafting_table": {
+          "max_score": 10.0,
+          "sim_score": 0.0,
+          "score": 1.5,
+          "action_control": 8.0,
+          "error_recognition_and_correction": 0.0,
+          "creative_attempts": 0.0,
+          "task_completion_efficiency": 0.0,
+          "material_selection_and_usage": 4.0
+        },
+        "craft_diorite": {
+          "max_score": 10.0,
+          "sim_score": 0.0,
+          "score": 2.0,
+          "action_control": 2.0,
+          "error_recognition_and_correction": 0.0,
+          "creative_attempts": 0.0,
+          "task_completion_efficiency": 1.0,
+          "material_selection_and_usage": 3.0
+        },
+        "craft_bee_nest": {
+          "max_score": 10.0,
+          "sim_score": 0.0,
+          "score": 1.5,
+          "action_control": 2.0,
+          "error_recognition_and_correction": 0.0,
+          "creative_attempts": 0.0,
+          "task_completion_efficiency": 1.0,
+          "material_selection_and_usage": 3.0
+        },
+        "craft_to_cake": {
+          "max_score": 10.0,
+          "sim_score": 0.0,
+          "score": 3.5,
+          "action_control": 2.0,
+          "error_recognition_and_correction": 0.0,
+          "creative_attempts": 0.0,
+          "task_completion_efficiency": 2.0,
+          "material_selection_and_usage": 8.0
+        },
+        "craft_to_clock": {
+          "max_score": 10.0,
+          "sim_score": 0.0,
+          "score": 1.5,
+          "action_control": 2.0,
+          "error_recognition_and_correction": 1.0,
+          "creative_attempts": 0.0,
+          "task_completion_efficiency": 2.0,
+          "material_selection_and_usage": 2.0
+        },
+        "craft_ladder": {
+          "max_score": 10.0,
+          "sim_score": 0.0,
+          "score": 1.5,
+          "action_control": 2.0,
+          "error_recognition_and_correction": 0.0,
+          "creative_attempts": 0.0,
+          "task_completion_efficiency": 1.0,
+          "material_selection_and_usage": 3.0
+        },
+        "craft_stonecut": {
+          "max_score": 10.0,
+          "sim_score": 0.0,
+          "score": 2.0,
+          "action_control": 2.0,
+          "error_recognition_and_correction": 0.0,
+          "creative_attempts": 0.0,
+          "task_completion_efficiency": 1.0,
+          "material_selection_and_usage": 3.0
+        },
+        "craft_enchanting_table": {
+          "max_score": 10.0,
+          "sim_score": 0.0,
+          "score": 2.5,
+          "action_control": 3.0,
+          "error_recognition_and_correction": 0.0,
+          "creative_attempts": 0.0,
+          "task_completion_efficiency": 2.0,
+          "material_selection_and_usage": 4.0
+        },
+        "craft_furnace": {
+          "max_score": 10.0,
+          "sim_score": 0.0,
+          "score": 1.5,
+          "action_control": 2.0,
+          "error_recognition_and_correction": 0.0,
+          "creative_attempts": 0.0,
+          "task_completion_efficiency": 1.0,
+          "material_selection_and_usage": 4.0
+        }
+      }
+    }
+  ]
+}

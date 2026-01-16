@@ -1,0 +1,150 @@
+{
+  "participants": {
+    "agent": "019bc2e2-b44b-71f3-9fa5-e89901920e31"
+  },
+  "results": [
+    {
+      "task_category": "building",
+      "num_tasks": 13,
+      "total_max_score": 130.0,
+      "total_score": 16.5,
+      "avg_action_control": 1.77,
+      "avg_error_recognition_and_correction": 0.77,
+      "avg_creative_attempts": 0.0,
+      "avg_task_completion_efficiency": 0.92,
+      "avg_material_selection_and_usage": 1.85,
+      "task_metrics": {
+        "build_pillar": {
+          "max_score": 10.0,
+          "sim_score": 0.0,
+          "score": 0.0,
+          "action_control": 0.0,
+          "error_recognition_and_correction": 0.0,
+          "creative_attempts": 0.0,
+          "task_completion_efficiency": 0.0,
+          "material_selection_and_usage": 2.0
+        },
+        "build_a_library": {
+          "max_score": 10.0,
+          "sim_score": 0.0,
+          "score": 0.0,
+          "action_control": 1.0,
+          "error_recognition_and_correction": 0.0,
+          "creative_attempts": 0.0,
+          "task_completion_efficiency": 0.0,
+          "material_selection_and_usage": 0.0
+        },
+        "build_snow_golem": {
+          "max_score": 10.0,
+          "sim_score": 0.0,
+          "score": 5.0,
+          "action_control": 5.0,
+          "error_recognition_and_correction": 8.0,
+          "creative_attempts": 0.0,
+          "task_completion_efficiency": 6.0,
+          "material_selection_and_usage": 10.0
+        },
+        "build_a_garden": {
+          "max_score": 10.0,
+          "sim_score": 0.0,
+          "score": 0.0,
+          "action_control": 2.0,
+          "error_recognition_and_correction": 0.0,
+          "creative_attempts": 0.0,
+          "task_completion_efficiency": 0.0,
+          "material_selection_and_usage": 0.0
+        },
+        "dig_three_down_and_fill_one_up": {
+          "max_score": 10.0,
+          "sim_score": 0.0,
+          "score": 0.0,
+          "action_control": 2.0,
+          "error_recognition_and_correction": 0.0,
+          "creative_attempts": 0.0,
+          "task_completion_efficiency": 0.0,
+          "material_selection_and_usage": 1.0
+        },
+        "build_a_house": {
+          "max_score": 10.0,
+          "sim_score": 0.0,
+          "score": 0.0,
+          "action_control": 2.0,
+          "error_recognition_and_correction": 0.0,
+          "creative_attempts": 0.0,
+          "task_completion_efficiency": 0.0,
+          "material_selection_and_usage": 1.0
+        },
+        "build_a_ladder": {
+          "max_score": 10.0,
+          "sim_score": 0.0,
+          "score": 1.5,
+          "action_control": 2.0,
+          "error_recognition_and_correction": 0.0,
+          "creative_attempts": 0.0,
+          "task_completion_efficiency": 1.0,
+          "material_selection_and_usage": 3.0
+        },
+        "build_a_wall": {
+          "max_score": 10.0,
+          "sim_score": 0.0,
+          "score": 0.0,
+          "action_control": 1.0,
+          "error_recognition_and_correction": 0.0,
+          "creative_attempts": 0.0,
+          "task_completion_efficiency": 0.0,
+          "material_selection_and_usage": 0.0
+        },
+        "build_gate": {
+          "max_score": 10.0,
+          "sim_score": 0.0,
+          "score": 0.0,
+          "action_control": 0.0,
+          "error_recognition_and_correction": 0.0,
+          "creative_attempts": 0.0,
+          "task_completion_efficiency": 0.0,
+          "material_selection_and_usage": 0.0
+        },
+        "build_a_maze": {
+          "max_score": 10.0,
+          "sim_score": 0.0,
+          "score": 0.0,
+          "action_control": 1.0,
+          "error_recognition_and_correction": 0.0,
+          "creative_attempts": 0.0,
+          "task_completion_efficiency": 0.0,
+          "material_selection_and_usage": 0.0
+        },
+        "build_nether_portal": {
+          "max_score": 10.0,
+          "sim_score": 0.0,
+          "score": 5.0,
+          "action_control": 2.0,
+          "error_recognition_and_correction": 0.0,
+          "creative_attempts": 0.0,
+          "task_completion_efficiency": 1.0,
+          "material_selection_and_usage": 3.0
+        },
+        "build_a_tower": {
+          "max_score": 10.0,
+          "sim_score": 0.0,
+          "score": 0.0,
+          "action_control": 2.0,
+          "error_recognition_and_correction": 0.0,
+          "creative_attempts": 0.0,
+          "task_completion_efficiency": 1.0,
+          "material_selection_and_usage": 1.0
+        },
+        "build_a_waterfall": {
+          "max_score": 10.0,
+          "sim_score": 0.0,
+          "score": 5.0,
+          "action_control": 3.0,
+          "error_recognition_and_correction": 2.0,
+          "creative_attempts": 0.0,
+          "task_completion_efficiency": 3.0,
+          "material_selection_and_usage": 3.0
+        }
+      }
+    }
+  ]
+}
