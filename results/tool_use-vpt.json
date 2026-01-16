@@ -1,0 +1,140 @@
+{
+  "participants": {
+    "agent": "019bc2e2-b44b-71f3-9fa5-e89901920e31"
+  },
+  "results": [
+    {
+      "task_category": "tool_use",
+      "num_tasks": 12,
+      "total_max_score": 120.0,
+      "total_score": 14.5,
+      "avg_action_control": 1.92,
+      "avg_error_recognition_and_correction": 0.42,
+      "avg_creative_attempts": 0.0,
+      "avg_task_completion_efficiency": 0.92,
+      "avg_material_selection_and_usage": 2.42,
+      "task_metrics": {
+        "plant_wheats": {
+          "max_score": 10.0,
+          "sim_score": 0.0,
+          "score": 0.0,
+          "action_control": 2.0,
+          "error_recognition_and_correction": 0.0,
+          "creative_attempts": 0.0,
+          "task_completion_efficiency": 0.0,
+          "material_selection_and_usage": 2.0
+        },
+        "use_bow": {
+          "max_score": 10.0,
+          "sim_score": 0.0,
+          "score": 1.5,
+          "action_control": 2.0,
+          "error_recognition_and_correction": 0.0,
+          "creative_attempts": 0.0,
+          "task_completion_efficiency": 1.0,
+          "material_selection_and_usage": 3.0
+        },
+        "sleep_in_bed": {
+          "max_score": 10.0,
+          "sim_score": 0.0,
+          "score": 0.0,
+          "action_control": 2.0,
+          "error_recognition_and_correction": 0.0,
+          "creative_attempts": 0.0,
+          "task_completion_efficiency": 1.0,
+          "material_selection_and_usage": 0.0
+        },
+        "use_shield": {
+          "max_score": 10.0,
+          "sim_score": 0.0,
+          "score": 2.5,
+          "action_control": 3.0,
+          "error_recognition_and_correction": 2.0,
+          "creative_attempts": 0.0,
+          "task_completion_efficiency": 2.0,
+          "material_selection_and_usage": 4.0
+        },
+        "carve_pumpkins": {
+          "max_score": 10.0,
+          "sim_score": 0.0,
+          "score": 1.5,
+          "action_control": 2.0,
+          "error_recognition_and_correction": 1.0,
+          "creative_attempts": 0.0,
+          "task_completion_efficiency": 1.0,
+          "material_selection_and_usage": 3.0
+        },
+        "make_fire_with_flint_and_steel": {
+          "max_score": 10.0,
+          "sim_score": 0.0,
+          "score": 1.5,
+          "action_control": 2.0,
+          "error_recognition_and_correction": 1.0,
+          "creative_attempts": 0.0,
+          "task_completion_efficiency": 2.0,
+          "material_selection_and_usage": 3.0
+        },
+        "drink_harming_potion": {
+          "max_score": 10.0,
+          "sim_score": 0.0,
+          "score": 2.5,
+          "action_control": 2.0,
+          "error_recognition_and_correction": 0.0,
+          "creative_attempts": 0.0,
+          "task_completion_efficiency": 2.0,
+          "material_selection_and_usage": 7.0
+        },
+        "enchant_diamond_sword": {
+          "max_score": 10.0,
+          "sim_score": 0.0,
+          "score": 3.0,
+          "action_control": 2.0,
+          "error_recognition_and_correction": 1.0,
+          "creative_attempts": 0.0,
+          "task_completion_efficiency": 1.0,
+          "material_selection_and_usage": 2.0
+        },
+        "use_trident": {
+          "max_score": 10.0,
+          "sim_score": 0.0,
+          "score": 0.0,
+          "action_control": 2.0,
+          "error_recognition_and_correction": 0.0,
+          "creative_attempts": 0.0,
+          "task_completion_efficiency": 0.0,
+          "material_selection_and_usage": 0.0
+        },
+        "use_lead": {
+          "max_score": 10.0,
+          "sim_score": 0.0,
+          "score": 0.0,
+          "action_control": 2.0,
+          "error_recognition_and_correction": 0.0,
+          "creative_attempts": 0.0,
+          "task_completion_efficiency": 0.0,
+          "material_selection_and_usage": 3.0
+        },
+        "brew_potion_of_fire_resistance": {
+          "max_score": 10.0,
+          "sim_score": 0.0,
+          "score": 2.0,
+          "action_control": 1.0,
+          "error_recognition_and_correction": 0.0,
+          "creative_attempts": 0.0,
+          "task_completion_efficiency": 1.0,
+          "material_selection_and_usage": 2.0
+        },
+        "smelt_beef": {
+          "max_score": 10.0,
+          "sim_score": 0.0,
+          "score": 0.0,
+          "action_control": 1.0,
+          "error_recognition_and_correction": 0.0,
+          "creative_attempts": 0.0,
+          "task_completion_efficiency": 0.0,
+          "material_selection_and_usage": 0.0
+        }
+      }
+    }
+  ]
+}

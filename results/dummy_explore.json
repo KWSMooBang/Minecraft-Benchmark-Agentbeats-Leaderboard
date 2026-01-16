@@ -1,0 +1,80 @@
+{
+  "participants": {
+    "agent": "dummy-agent"
+  },
+  "results": [
+    {
+      "task_category": "explore",
+      "num_tasks": 6,
+      "total_max_score": 60.0,
+      "total_score": 0.0,
+      "avg_action_control": 0.0,
+      "avg_error_recognition_and_correction": 0.0,
+      "avg_creative_attempts": 0.0,
+      "avg_task_completion_efficiency": 0.0,
+      "avg_material_selection_and_usage": 0.0,
+      "task_metrics": {
+        "explore_boat": {
+          "max_score": 10.0,
+          "sim_score": 0.0,
+          "score": 0.0,
+          "action_control": 0.0,
+          "error_recognition_and_correction": 0.0,
+          "creative_attempts": 0.0,
+          "task_completion_efficiency": 0.0,
+          "material_selection_and_usage": 0.0
+        },
+        "explore_chest": {
+          "max_score": 10.0,
+          "sim_score": 0.0,
+          "score": 0.0,
+          "action_control": 0.0,
+          "error_recognition_and_correction": 0.0,
+          "creative_attempts": 0.0,
+          "task_completion_efficiency": 0.0,
+          "material_selection_and_usage": 0.0
+        },
+        "explore_climb": {
+          "max_score": 10.0,
+          "sim_score": 0.0,
+          "score": 0.0,
+          "action_control": 0.0,
+          "error_recognition_and_correction": 0.0,
+          "creative_attempts": 0.0,
+          "task_completion_efficiency": 0.0,
+          "material_selection_and_usage": 0.0
+        },
+        "explore_map": {
+          "max_score": 10.0,
+          "sim_score": 0.0,
+          "score": 0.0,
+          "action_control": 0.0,
+          "error_recognition_and_correction": 0.0,
+          "creative_attempts": 0.0,
+          "task_completion_efficiency": 0.0,
+          "material_selection_and_usage": 0.0
+        },
+        "explore_run": {
+          "max_score": 10.0,
+          "sim_score": 0.0,
+          "score": 0.0,
+          "action_control": 0.0,
+          "error_recognition_and_correction": 0.0,
+          "creative_attempts": 0.0,
+          "task_completion_efficiency": 0.0,
+          "material_selection_and_usage": 0.0
+        },
+        "explore_the_treasure": {
+          "max_score": 10.0,
+          "sim_score": 0.0,
+          "score": 0.0,
+          "action_control": 0.0,
+          "error_recognition_and_correction": 0.0,
+          "creative_attempts": 0.0,
+          "task_completion_efficiency": 0.0,
+          "material_selection_and_usage": 0.0
+        }
+      }
+    }
+  ]
+}

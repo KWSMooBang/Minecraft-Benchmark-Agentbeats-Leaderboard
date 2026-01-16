@@ -1,0 +1,100 @@
+{
+  "participants": {
+    "agent": "dummy-agent"
+  },
+  "results": [
+    {
+      "task_category": "decoration",
+      "num_tasks": 8,
+      "total_max_score": 80.0,
+      "total_score": 0.0,
+      "avg_action_control": 0.0,
+      "avg_error_recognition_and_correction": 0.0,
+      "avg_creative_attempts": 0.0,
+      "avg_task_completion_efficiency": 0.0,
+      "avg_material_selection_and_usage": 0.0,
+      "task_metrics": {
+        "clean_the_weeds": {
+          "max_score": 10.0,
+          "sim_score": 0.0,
+          "score": 0.0,
+          "action_control": 0.0,
+          "error_recognition_and_correction": 0.0,
+          "creative_attempts": 0.0,
+          "task_completion_efficiency": 0.0,
+          "material_selection_and_usage": 0.0
+        },
+        "decorate_the_ground": {
+          "max_score": 10.0,
+          "sim_score": 0.0,
+          "score": 0.0,
+          "action_control": 0.0,
+          "error_recognition_and_correction": 0.0,
+          "creative_attempts": 0.0,
+          "task_completion_efficiency": 0.0,
+          "material_selection_and_usage": 0.0
+        },
+        "decorate_the_wall": {
+          "max_score": 10.0,
+          "sim_score": 0.0,
+          "score": 0.0,
+          "action_control": 0.0,
+          "error_recognition_and_correction": 0.0,
+          "creative_attempts": 0.0,
+          "task_completion_efficiency": 0.0,
+          "material_selection_and_usage": 0.0
+        },
+        "lay_carpet": {
+          "max_score": 10.0,
+          "sim_score": 0.0,
+          "score": 0.0,
+          "action_control": 0.0,
+          "error_recognition_and_correction": 0.0,
+          "creative_attempts": 0.0,
+          "task_completion_efficiency": 0.0,
+          "material_selection_and_usage": 0.0
+        },
+        "light_up_the_surroundings": {
+          "max_score": 10.0,
+          "sim_score": 0.0,
+          "score": 0.0,
+          "action_control": 0.0,
+          "error_recognition_and_correction": 0.0,
+          "creative_attempts": 0.0,
+          "task_completion_efficiency": 0.0,
+          "material_selection_and_usage": 0.0
+        },
+        "light_up_the_surroundings_at_night": {
+          "max_score": 10.0,
+          "sim_score": 0.0,
+          "score": 0.0,
+          "action_control": 0.0,
+          "error_recognition_and_correction": 0.0,
+          "creative_attempts": 0.0,
+          "task_completion_efficiency": 0.0,
+          "material_selection_and_usage": 0.0
+        },
+        "place_a_item_frame": {
+          "max_score": 10.0,
+          "sim_score": 0.0,
+          "score": 0.0,
+          "action_control": 0.0,
+          "error_recognition_and_correction": 0.0,
+          "creative_attempts": 0.0,
+          "task_completion_efficiency": 0.0,
+          "material_selection_and_usage": 0.0
+        },
+        "prepare_a_birthday_present_for_your_neighbor": {
+          "max_score": 10.0,
+          "sim_score": 0.0,
+          "score": 0.0,
+          "action_control": 0.0,
+          "error_recognition_and_correction": 0.0,
+          "creative_attempts": 0.0,
+          "task_completion_efficiency": 0.0,
+          "material_selection_and_usage": 0.0
+        }
+      }
+    }
+  ]
+}

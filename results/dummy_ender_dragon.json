@@ -1,0 +1,30 @@
+{
+  "participants": {
+    "agent": "dummy-agent"
+  },
+  "results": [
+    {
+      "task_category": "ender_dragon",
+      "num_tasks": 1,
+      "total_max_score": 100.0,
+      "total_score": 0.0,
+      "avg_action_control": 0.0,
+      "avg_error_recognition_and_correction": 0.0,
+      "avg_creative_attempts": 0.0,
+      "avg_task_completion_efficiency": 0.0,
+      "avg_material_selection_and_usage": 0.0,
+      "task_metrics": {
+        "kill_ender_dragon": {
+          "max_score": 10.0,
+          "sim_score": 0.0,
+          "score": 0.0,
+          "action_control": 0.0,
+          "error_recognition_and_correction": 0.0,
+          "creative_attempts": 0.0,
+          "task_completion_efficiency": 0.0,
+          "material_selection_and_usage": 0.0
+        }
+      }
+    }
+  ]
+}
