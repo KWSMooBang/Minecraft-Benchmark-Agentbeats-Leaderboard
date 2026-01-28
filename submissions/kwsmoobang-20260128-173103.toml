@@ -1,0 +1,11 @@
+[green_agent]
+agentbeats_id = "019bad79-fd8b-7cc0-9b0f-36b91fa634d7"
+env = { OPENAI_API_KEY = "${OPENAI_API_KEY}", LOG_LEVEL = "INFO" }
+
+[[participants]]
+agentbeats_id = "019bc2a7-a035-7773-8493-69525d37bcce"
+name = "agent"
+env = {}
+
+[config]
+task_category = "mine_diamond_from_scratch"
