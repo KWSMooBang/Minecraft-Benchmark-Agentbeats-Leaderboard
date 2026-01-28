@@ -68,11 +68,11 @@ python3 record_provenance.py --compose docker-compose.yml --output output/proven
 # Step 10: Generate submission metadata
 echo -e "\n${YELLOW}[Step 10/14]${NC} Generating submission metadata..."
 TIMESTAMP=$(date +%Y%m%d-%H%M%S)
-USERNAME=$(git config user.name | tr -d ' ' | tr '[:upper:]' '[:lower:]')
-if [ -z "$USERNAME" ]; then
-    USERNAME=$(whoami)
+GITHUB_USERNAME=$(git config user.name | tr -d ' ' | tr '[:upper:]' '[:lower:]')
+if [ -z "$GITHUB_USERNAME" ]; then
+    GITHUB_USERNAME=$(whoami)
 fi
-UNIQUE_NAME="${USERNAME}-${TIMESTAMP}"
+UNIQUE_NAME="${GITHUB_USERNAME}-${TIMESTAMP}"
 BRANCH_NAME="submission-${UNIQUE_NAME}"
 
 echo "Unique name: $UNIQUE_NAME"
